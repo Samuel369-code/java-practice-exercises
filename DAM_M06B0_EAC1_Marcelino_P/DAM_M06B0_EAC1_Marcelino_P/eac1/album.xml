@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<album id="pb-0001">
+  <titol>Entre Muntanyes</titol>
+  <artista>La Collada</artista>
+  <any>2023</any>
+  <genere>Folk/Rock</genere>
+  <segell>Estepa Records</segell>
+  <durada>01:04:55</durada>
+  
+  
+  <cancons>
+    <canco isrc="ES-ABC-23-00001">
+      <titol>Camí Vell</titol>
+      <durada>00:03:42</durada>
+      <popularitat>87</popularitat>
+      <explicit>false</explicit>
+    </canco>
+
+    <canco isrc="ES-ABC-23-00002">
+      <titol>Vent del Nord</titol>
+      <durada>00:04:15</durada>
+      <popularitat>92</popularitat>
+      <explicit>false</explicit>
+    </canco>
+
+    <canco isrc="ES-ABC-23-00003">
+      <titol>Clarianes</titol>
+      <durada>00:05:08</durada>
+      <popularitat>75</popularitat>
+      <explicit>false</explicit>
+    </canco>
+
+    <canco isrc="ES-ABC-23-00004">
+      <titol>Tramuntana</titol>
+      <durada>00:03:57</durada>
+      <popularitat>60</popularitat>
+      <explicit>false</explicit>
+    </canco>
+
+    <canco isrc="ES-ABC-23-00005">
+      <titol>Entre Muntanyes</titol>
+      <durada>00:04:39</durada>
+      <popularitat>95</popularitat>
+      <explicit>false</explicit>
+    </canco>
+
+    <canco isrc="ES-ABC-23-00006">
+      <titol>Alba</titol>
+      <durada>00:04:51</durada>
+      <popularitat>70</popularitat>
+      <explicit>false</explicit>
+    </canco>
+
+    <canco isrc="ES-ABC-23-00007">
+      <titol>Fageda</titol>
+      <durada>00:03:46</durada>
+      <popularitat>55</popularitat>
+      <explicit>false</explicit>
+    </canco>
+
+    <canco isrc="ES-ABC-23-00008">
+      <titol>Retorn</titol>
+      <durada>00:06:00</durada>
+      <popularitat>80</popularitat>
+      <explicit>true</explicit>
+    </canco>
+
+    <canco isrc="ES-ABC-23-00009">
+      <titol>Lluna Plena</titol>
+      <durada>00:04:12</durada>
+      <popularitat>78</popularitat>
+      <explicit>false</explicit>
+    </canco>
+
+    <canco isrc="ES-ABC-23-00010">
+      <titol>Cims Nevats</titol>
+      <durada>00:05:20</durada>
+      <popularitat>84</popularitat>
+      <explicit>false</explicit>
+    </canco>
+
+    <canco isrc="ES-ABC-23-00011">
+      <titol>Fonts Amagades</titol>
+      <durada>00:04:33</durada>
+      <popularitat>73</popularitat>
+      <explicit>false</explicit>
+    </canco>
+
+    <canco isrc="ES-ABC-23-00012">
+      <titol>Camins d’Aigua</titol>
+      <durada>00:05:01</durada>
+      <popularitat>82</popularitat>
+      <explicit>false</explicit>
+    </canco>
+
+    <canco isrc="ES-ABC-23-00013">
+      <titol>Silenci del Bosc</titol>
+      <durada>00:04:55</durada>
+      <popularitat>69</popularitat>
+      <explicit>false</explicit>
+    </canco>
+
+    <canco isrc="ES-ABC-23-00014">
+      <titol>Últim Viatge</titol>
+      <durada>00:04:36</durada>
+      <popularitat>90</popularitat>
+      <explicit>true</explicit>
+    </canco>
+  </cancons>
+</album>

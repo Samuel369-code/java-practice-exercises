@@ -1,0 +1,110 @@
+{
+    "id": "pb-0001",
+    "titol": "Entre Muntanyes",
+    "artista": "La Collada",
+    "any": 2023,
+    "genere": "Folk/Rock",
+    "segell": "Estepa Records",
+    "durada": "01:04:55",
+    
+    "cancons": [
+      {
+        "isrc": "ES-ABC-23-00001",
+        "titol": "Camí Vell",
+        "durada": "00:03:42",
+        "popularitat": 87,
+        "explicit": false
+      },
+      {
+        "isrc": "ES-ABC-23-00002",
+        "titol": "Vent del Nord",
+        "durada": "00:04:15",
+        "popularitat": 92,
+        "explicit": false
+      },
+      {
+        "isrc": "ES-ABC-23-00003",
+        "titol": "Clarianes",
+        "durada": "00:05:08",
+        "popularitat": 75,
+        "explicit": false
+      },
+      {
+        "isrc": "ES-ABC-23-00004",
+        "titol": "Tramuntana",
+        "durada": "00:03:57",
+        "popularitat": 60,
+        "explicit": false
+      },
+      {
+        "isrc": "ES-ABC-23-00005",
+        "titol": "Entre Muntanyes",
+        "durada": "00:04:39",
+        "popularitat": 95,
+        "explicit": false
+      },
+      {
+        "isrc": "ES-ABC-23-00006",
+        "titol": "Alba",
+        "durada": "00:04:51",
+        "popularitat": 70,
+        "explicit": false
+      },
+      {
+        "isrc": "ES-ABC-23-00007",
+        "titol": "Fageda",
+        "durada": "00:03:46",
+        "popularitat": 55,
+        "explicit": false
+      },
+      {
+        "isrc": "ES-ABC-23-00008",
+        "titol": "Retorn",
+        "durada": "00:06:00",
+        "popularitat": 80,
+        "explicit": true
+      },
+      {
+        "isrc": "ES-ABC-23-00009",
+        "titol": "Lluna Plena",
+        "durada": "00:04:12",
+        "popularitat": 78,
+        "explicit": false
+      },
+      {
+        "isrc": "ES-ABC-23-00010",
+        "titol": "Cims Nevats",
+        "durada": "00:05:20",
+        "popularitat": 84,
+        "explicit": false
+      },
+      {
+        "isrc": "ES-ABC-23-00011",
+        "titol": "Fonts Amagades",
+        "durada": "00:04:33",
+        "popularitat": 73,
+        "explicit": false
+      },
+      {
+        "isrc": "ES-ABC-23-00012",
+        "titol": "Camins d’Aigua",
+        "durada": "00:05:01",
+        "popularitat": 82,
+        "explicit": false
+      },
+      {
+        "isrc": "ES-ABC-23-00013",
+        "titol": "Silenci del Bosc",
+        "durada": "00:04:55",
+        "popularitat": 69,
+        "explicit": false
+      },
+      {
+        "isrc": "ES-ABC-23-00014",
+        "titol": "Últim Viatge",
+        "durada": "00:04:36",
+        "popularitat": 90,
+        "explicit": true
+      }
+    ]
+  }
